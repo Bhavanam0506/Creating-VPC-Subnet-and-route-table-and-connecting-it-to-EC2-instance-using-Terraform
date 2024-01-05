@@ -1,4 +1,4 @@
-# Terraform
+# Creating VPC, Subnet and route table and connecting it to EC2 instance using Terraform
 1. Terraform init
 ![image](https://github.com/Bhavanam0506/Terraform/assets/92242002/64b4184a-3804-47d1-bb34-9348b0ed1641)
 
